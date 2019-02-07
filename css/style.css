@@ -1,0 +1,65 @@
+
+/* Importing all components file */
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/cards.css");
+@import url("components/nav.css");
+@import url("components/footer.css");
+
+/* General for fonts and colors */
+body {
+  font-family: 'Roboto Slab', serif;
+  background-color: rgb(240 240 240);
+  padding-bottom: 10px;
+}
+
+.container{
+  padding: 20px 80px;
+  clear: both;
+  margin: 30px 40px;
+  border-radius: 0px 5px 5px 5px;
+  background-color: white;
+}
+
+h3 {
+  color: #A8201A;
+  font-size: 30px;
+}
+
+p {
+  font-weight: lighter;
+  padding: 0;
+}
+
+li {
+  font-weight: lighter;
+  margin: 1% 10% 0% 5%;
+}
+
+
+
+/*#evenings li:before {
+content: '\1F483';
+margin-left: -20px;
+}
+
+#afternoons li:before {
+content: '\1F1EC\1F1E7';
+margin-left: -20px;
+}
+
+#weekends li:before {
+content: '\1F682';
+margin-left: -20px;
+}
+
+#meals li:before {
+content: '\1F37D';
+margin-left: -20px;
+}
+
+#plays li:before {
+content: ' ';
+margin-left: 0px;*/
+}
+
