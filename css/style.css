@@ -5,6 +5,7 @@
 @import url("components/cards.css");
 @import url("components/nav.css");
 @import url("components/footer.css");
+@import url("components/resources.css");
 
 /* General for fonts and colors */
 body {
@@ -24,6 +25,12 @@ body {
 h3 {
   color: #A8201A;
   font-size: 30px;
+}
+
+a {
+  color: #A8201A;
+  font-size: 30px;
+  text-decoration: none;
 }
 
 p {
